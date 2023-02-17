@@ -1,7 +1,7 @@
 <h1> Hi, I'm David </h3>
   
   <h2> Projects: </h2>
-  - [Invetory Management In JavaFX](https://github.com/DavidBoudrot/software1WGU)
+  - [Inventory Management In JavaFX](https://github.com/DavidBoudrot/software1WGU)
   
   
 <!--
