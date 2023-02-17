@@ -3,7 +3,7 @@
 
 
 
-## Projects:
+# Projects:
   - [Inventory Management In JavaFX](https://github.com/DavidBoudrot/software1WGU)
   
 
