@@ -1,11 +1,9 @@
 <h1> Hi, I'm David </h3>
   
   <h2> Projects: </h2>
-  - [Inventory Manager in JavaFX](https://github.com/DavidBoudrot/software1WGU)
+  - [Invetory Management In JavaFX](https://github.com/DavidBoudrot/software1WGU)
   
   
-
-
 <!--
 **DavidBoudrot/DavidBoudrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
