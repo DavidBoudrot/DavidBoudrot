@@ -6,7 +6,7 @@
 ## Projects:
   - [Inventory Management In JavaFX](https://github.com/DavidBoudrot/software1WGU)
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
   
   
 
